@@ -6,3 +6,5 @@
 
 ##### git good  
 ###### git bad
+
+![Image of Yaktocat that looks like a deity](https://octodex.github.com/images/yaktocat.png)
